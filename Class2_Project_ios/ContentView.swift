@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Class2_Project
+//  Class2_Project_ios
 //
 //  Created by Gdaalumno on 05/12/23.
 //
